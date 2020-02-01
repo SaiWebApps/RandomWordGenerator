@@ -3,7 +3,7 @@ Python Library for Generating Random Words
 
 ## Usage
 ```
-from randomgenerator import randomwordgenerator
+from randomwordgenerator import randomwordgenerator
 
 num_words = 20
 randomwordgenerator.generate_random_words(n = num_words)
